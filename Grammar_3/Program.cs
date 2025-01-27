@@ -32,10 +32,7 @@
 
             Console.WriteLine();
 
-            string str1 = "Apple";
-            string str2 = "apple";
-            int compare = string.Compare(str1, str2);
-            Console.WriteLine(compare);
+            
         }
     }
 }
